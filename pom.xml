@@ -20,8 +20,8 @@
     <scm>
         <connection>scm:git:https://github.com/Formation92/TP3.git</connection>
         <developerConnection>scm:git:https://github.com/Formation92/TP3.git</developerConnection>
-        <url>https://github.com/Formation92/TP3.git</url>
-        <tag>java-maven-calculator-web-app-1.4</tag>
+        <url>https://github.com/Formation92/TP3</url>
+        <tag>java-maven-calculator-web-app-1.3</tag>
     </scm>
 
        
@@ -296,7 +296,7 @@
                 <version>2.5.3</version>
                 <configuration>
                     <username>formation92</username>
-                    <password>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</password>
+                    <password>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</password>
                     <tagBase>https://github.com/Formation92/TP3</tagBase>
                     <branchBase>https://github.com/Formation92/TP3</branchBase>
                     <reportPlugins>
