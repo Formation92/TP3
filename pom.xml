@@ -20,7 +20,7 @@
     <scm>
         <connection>scm:git:https://github.com/Formation92/TP3.git</connection>
         <developerConnection>scm:git:https://github.com/Formation92/TP3.git</developerConnection>
-        <url>https://github.com/Formation92/TP3</url>
+        <url>https://github.com/Formation92/TP3.git</url>
         <tag>java-maven-calculator-web-app-1.4</tag>
     </scm>
 
