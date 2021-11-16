@@ -3,7 +3,7 @@
     <groupId>com.orsys.javawebapp</groupId>
     <artifactId>java-maven-calculator-web-app</artifactId>
     <packaging>war</packaging>
-    <version>1.1</version>
+    <version>1.1-SNAPSHOT</version>
     <name>Calculator Web</name>
     <description>A Java Maven Calculator Web Application Writen By Java, Built By Maven, CI/CD By Jenkins</description>
     <url>http://maven.apache.org</url>
@@ -17,10 +17,10 @@
     </properties>
 
     <scm>
-        <connection>scm:git:https://github.com/maping/java-maven-calculator-web-app.git</connection>
-        <developerConnection>scm:git:https://github.com/maping/java-maven-calculator-web-app.git</developerConnection>
-        <url>https://github.com/maping/java-maven-calculator-web-app.git</url>
-        <tag>java-maven-calculator-web-app-1.1</tag>
+        <connection>scm:git:https://github.com/Formation92/TP3</connection>
+        <developerConnection>scm:git:https://github.com/Formation92/TP3</developerConnection>
+        <url>https://github.com/Formation92/TP3</url>
+        <tag>java-maven-calculator-web-app-1.0</tag>
     </scm>
 
     <distributionManagement>
@@ -279,10 +279,10 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <version>2.5.3</version>
                 <configuration>
-                    <username>username</username>
-                    <password>password</password>
-                    <tagBase>https://github.com/maping/java-maven-calculator-web-app.git</tagBase>
-                    <branchBase>https://github.com/maping/java-maven-calculator-web-app.git</branchBase>
+                    <username>formation92</username>
+                    <password>Formation2019!!</password>
+                    <tagBase>https://github.com/Formation92/TP3</tagBase>
+                    <branchBase>https://github.com/Formation92/TP3</branchBase>
                     <reportPlugins>
                         <plugin>
                           <groupId>org.apache.maven.plugins</groupId>
