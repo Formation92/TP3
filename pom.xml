@@ -3,7 +3,7 @@
     <groupId>com.orsys.javawebapp</groupId>
     <artifactId>java-maven-calculator-web-app</artifactId>
     <packaging>war</packaging>
-    <version>1.1</version>
+    <version>1.1-SNAPSHOT</version>
     <name>Calculator Web</name>
     <description>A Java Maven Calculator Web Application Writen By Java, Built By Maven, CI/CD By Jenkins</description>
     <url>http://maven.apache.org</url>
@@ -280,7 +280,7 @@
                 <version>2.5.3</version>
                 <configuration>
                     <username>formation92</username>
-                    <password>Formation2019!!</password>
+                    <password>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</password>
                     <tagBase>https://github.com/Formation92/TP3</tagBase>
                     <branchBase>https://github.com/Formation92/TP3</branchBase>
                     <reportPlugins>
