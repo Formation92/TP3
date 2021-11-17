@@ -14,6 +14,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <jersey-version>2.27</jersey-version>
         <maven.tomcat.port>8085</maven.tomcat.port>
+        <maven.tomcat.path>C:\Program Files\Apache Software Foundation\Tomcat 9.0</maven.tomcat.path>
         <project.scm.id>git</project.scm.id>
     </properties>
 
@@ -216,11 +217,11 @@
                 <configuration>
                     <container>
                         <containerId>tomcat8x</containerId>
-                        <home>C:\Program Files\Apache Software Foundation\Tomcat 9.0</home>
+                        <home>${maven.tomcat.path}</home>
                     </container>
                     <configuration>
                         <type>existing</type>
-                        <home>C:\Program Files\Apache Software Foundation\Tomcat 9.0</home>
+                        <home>${maven.tomcat.path}</home>
                         <properties>
                             <cargo.servlet.port>${maven.tomcat.port}</cargo.servlet.port>
                         </properties>
