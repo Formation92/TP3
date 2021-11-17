@@ -296,7 +296,7 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <version>2.5.3</version>
                 <configuration>
-                    <username>formation92</username>
+                    <username>xxformation92</username>
                     <password>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</password>
                     <tagBase>https://github.com/Formation92/TP3</tagBase>
                     <branchBase>https://github.com/Formation92/TP3</branchBase>
