@@ -3,7 +3,7 @@
     <groupId>com.orsys.javawebapp</groupId>
     <artifactId>java-maven-calculator-web-app</artifactId>
     <packaging>war</packaging>
-    <version>1.6-SNAPSHOT</version>
+    <version>1.6</version>
     <name>Calculator Web</name>
     <description>A Java Maven Calculator Web Application Writen By Java, Built By Maven, CI/CD By Jenkins</description>
     <url>http://maven.apache.org</url>
@@ -22,7 +22,7 @@
         <connection>scm:git:https://github.com/Formation92/TP3.git</connection>
         <developerConnection>scm:git:https://github.com/Formation92/TP3.git</developerConnection>
         <url>https://github.com/Formation92/TP3</url>
-        <tag>java-maven-calculator-web-app-1.5</tag>
+        <tag>java-maven-calculator-web-app-1.6</tag>
     </scm>
 
        
